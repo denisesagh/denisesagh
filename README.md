@@ -1,4 +1,8 @@
-Hi 👋 My name is Denis Esagholian =================================  Software Engineer -----------------  I am a Software Engineer who loves to create new things!  * 🌍  I'm based in Germany
+Hi 👋! My name is Denis Esagholian, and I'm passionate about crafting innovative solutions as a Software Engineer! 🚀
+
+I thrive on creating new things and pushing boundaries! Let's build something amazing together! 💻🌟 
+
+🌍  I'm based in Germany 🇩🇪
 
 ### Skills  
 
